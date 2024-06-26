@@ -44,7 +44,7 @@
                 <!-- Top Menu -->
                 <div class="collapse navbar-collapse justify-content-end" id="navbar-collapse-toggle">
                     <ul class="navbar-nav ml-auto">
-                        <li><a class="nav-link" data-scroll-nav="0" href="home"><span>Home</span></a></li>
+                        <li><a class="nav-link" data-scroll-nav="0" href="bekstore.com"><span>Home</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="1" href="about"><span>About</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="2" href="skills"><span>Skills</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="3" href="Highlights"><span>Highlights</span></a></li>
