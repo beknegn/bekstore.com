@@ -11,7 +11,7 @@
     <meta name="keywords" content="Martin - Portfolio">
     <meta name="description" content="Martin - Portfolio">
     <!-- title -->
-    <title>Martin - Portfolio</title>
+    <title>bekstore.com</title>
     <!-- Favicon -->
     <link rel="shortcut icon" type="image/x-icon" href="favicon.ico">
     <!-- theme css -->
