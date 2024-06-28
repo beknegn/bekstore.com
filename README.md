@@ -44,13 +44,14 @@
                 <!-- Top Menu -->
                 <div class="collapse navbar-collapse justify-content-end" id="navbar-collapse-toggle">
                     <ul class="navbar-nav ml-auto">
-                        <li><a class="nav-link" data-scroll-nav="0" href="Home"><span>Home</span></a></li>
+                        <li><a class="nav-link" data-scroll-nav="0" href="https://www.linkedin.com/in/bekele-tsanga-082889263/overlay/about-this-profile/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BPoaWVywPTYGh4j8U318F0Q%3D%3D"><span>Home</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="1" href="about"><span>About</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="2" href="skills"><span>Skills</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="3" href="Highlights"><span>Highlights</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="4" href="portfolio"><span>Portfolio</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="5" href="pictures"><span>Pictures</span></a></li>
                         <li><a class="nav-link" data-scroll-nav="6" href="references"><span>References</span></a></li>
+                         <li><a class="nav-link" data-scroll-nav="6" href="[references](http://www.youtube.com/@bek3298)"><span>more</span></a></li>
                     </ul>
                 </div>
                 <!-- / -->
